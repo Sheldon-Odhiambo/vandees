@@ -1,20 +1,133 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🍽️ Vandees Kitchen
 
-# Run and deploy your AI Studio app
+## Enjoy Quality – Home of Quality Local Meals
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/041b65f7-7655-4739-b7c5-9c207c884700
+## 📌 Overview
 
-## Run Locally
+Vandees Kitchen is a modern food service web application built using **React and TypeScript**, designed to provide **quality local meals**, **interactive baking classes**, and **professional event catering services**.
 
-**Prerequisites:**  Node.js
+The platform focuses on delivering a seamless, fast, and user-friendly digital experience.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🎯 Objectives
+
+* Provide affordable and high-quality local meals
+* Offer engaging baking classes for all skill levels
+* Deliver reliable catering services for events
+* Build a scalable and modern web application
+
+---
+
+## 🛠️ Services Offered
+
+### 🍛 Local Meals
+
+* **Bronze (1 Course)** – KES 1100
+* **Silver (2 Course)** – KES 1500
+* **Gold (3 Course)** – KES 2000
+
+---
+
+### 🍰 Baking Classes
+
+* Beginner to Advanced sessions
+* Hands-on experience with Daisy
+* Fun and interactive learning
+
+---
+
+### 🎉 Event Catering
+
+* Weddings
+* Corporate events
+* Private parties
+
+---
+
+## 💻 Features
+
+* ⚡ Fast and responsive UI
+* 📱 Mobile-first design
+* 🧭 Smooth navigation
+* 💰 Clear pricing structure
+* 📩 Booking & inquiry options
+* ♻️ Reusable components (React)
+* 🛡️ Type safety (TypeScript)
+
+---
+
+## ⚙️ Tech Stack
+
+* **Frontend:** React
+* **Language:** TypeScript
+* **Styling:** CSS / Tailwind CSS (optional)
+* **Build Tool:** Vite / Create React App
+* **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/vandees-kitchen.git
+   ```
+
+2. Navigate into the project:
+
+   ```bash
+   cd vandees-kitchen
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start development server:
+
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 📍 Usage
+
+* Browse meals and services
+* Select a package or class
+* Make inquiries or bookings
+* Enjoy a smooth user experience
+
+---
+
+## 🌟 Vision
+
+To become a leading digital platform for **quality food services and culinary experiences**.
+
+---
+
+## 🤝 Contribution
+
+Contributions are welcome!
+Feel free to fork the repo and submit a pull request.
+
+---
+
+## 📞 Contact
+
+* 📧 Email: [info@vandeeskitchen.com](mailto:info@vandeeskitchen.com)
+* 📱 Phone: +254 XXX XXX XXX
+
+---
+
+## 📝 License
+
+MIT License
+
+---
