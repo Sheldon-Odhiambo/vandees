@@ -3,9 +3,12 @@ import { motion } from 'motion/react';
 import { Lightbulb } from 'lucide-react';
 
 const images = [
-  "https://picsum.photos/seed/gourmet-local-dish/1920/1080",
-  "https://picsum.photos/seed/artisanal-plating/1920/1080",
-  "https://picsum.photos/seed/fresh-ingredients-prep/1920/1080"
+  "/assets/back1.jpeg",
+  "/assets/back4.jpeg",
+  "/assets/back5.jpeg",
+  "/assets/back2.jpeg",
+  "/assets/back3.jpeg",
+
 ];
 
 export default function Hero() {

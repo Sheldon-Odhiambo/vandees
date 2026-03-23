@@ -18,19 +18,19 @@ const services = [
   {
     title: '1-Course Meal',
     description: 'Perfect for a quick, delicious bite. KES 1100 👌',
-    image: 'https://picsum.photos/seed/one-course-meal/800/1000',
+    image: '/assets/van1.jpeg',
     cta: 'Order Now'
   },
   {
     title: '2-Course Meal',
     description: 'A delightful experience for your palate. KES 1500 👌',
-    image: 'https://picsum.photos/seed/two-course-meal/800/1000',
+    image: '/assets/van2.jpeg',
     cta: 'Order Now'
   },
   {
     title: '3-Course Meal',
     description: 'The ultimate gourmet local experience. KES 2000 👌',
-    image: 'https://picsum.photos/seed/three-course-meal/800/1000',
+    image: '/assets/van3.jpeg',
     cta: 'Order Now'
   }
 ];
