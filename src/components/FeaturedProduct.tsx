@@ -4,8 +4,8 @@ const occasions = ['Birthday', 'Wedding', 'Graduation Party', 'Chama', 'Picnic',
 const samosaImages = [
   'https://lh3.googleusercontent.com/aida-public/AB6AXuDmWt4jLAssv_o4_JTqOTLuGhMGqJIVLTVk7TkqhNpRVzlb_2r-6Sw-plFQPGR48i4dmWm3thqkJwtUCd0IzouCEvIcIq6XhKR0aU147diX9mhgu74ApL4-zXJ2nTpNINwXItMNTY6b1t7x6kyvhuZ8HV6NTc2m-hEz2KQKSc4WnQMvDqsG55BcCM-atYrjoRA6m-5KqELCrzek1cLYDz1sWm6F_L4kWhBCobwp6q0JWv-WGvh1NTaGBLcy9RsfA6eG7udAKyS1v2Gq',
   '/assets/samosa1.jpeg',
-  '/assets/samosa1.jpeg',
-  '/assets/samosa1.jpeg'
+  '/assets/samosa2.jpeg',
+  '/assets/samosa3.jpeg'
 ];
 
 export default function FeaturedProduct() {
